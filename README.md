@@ -1,10 +1,10 @@
-# An Analysis of Kickstarter Campaigns
-Performing the analysis on Louise-s dataset for Kickstarter projects (goals vs pledged) trend data.
+# Analysis of Kickstarter Campaigns
+## Overview of Project: Kickstarter Analysis for Louise's play > FEVER!!
+[https://docs.google.com/presentation/d/e/2PACX-1vRUrb1EvORgiedw3s0WnSgOEZvOx2VrT7ftX-hra8_gf0nCqZStqGvTSbhJso24RiskEaeuJw6Y2_OG/pub?start=true&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRUrb1EvORgiedw3s0WnSgOEZvOx2VrT7ftX-hra8_gf0nCqZStqGvTSbhJso24RiskEaeuJw6Y2_OG/pub?start=true&loop=false&delayms=3000)
 
-Findings, including charts, graphs and data, are included in this report. Recommendations are listed at the end of this report to aid Louise plan the next step in generating the funding she needs to produce her play "Fever!"
+### Purpose and Background
+Louise, a very good friend and a brilliant writer, recently attempted to raise funds to produce a play she wrote (> Fever!!).  Her attempt was, however, unsuccessful. Knowing the person she is and the mottos she aspires to (> Try, Try Again < and > Never Give Up <), she wanted to gain a more thorough perspective in how to approach another attempt with a successful outcome. She was able to obtain a dataset of other Kickstarter projects from around the world for a variety of fundable projects. In some previous analysis attempts I conducted for her, she has seen a more directed approach to center this analysis attempt. There are two decision points that she believes will provide guidelines on how to better organize her fundraising activities. They are: (a) how different campaigns fared in relation to their launch dates and (b) compare whether they attained their funding goals. 
 
-pretending adding something-example ppsx
-[Module_1_Challenge_KickstarterAnalysis.ppsx](Module_1_Challenge_KickstarterAnalysis.ppsx)
-
-ec6E9EPj29iFi9c
-
+## Analysis and Challenges
+Overview of Analysis
+Challenges to overcome
