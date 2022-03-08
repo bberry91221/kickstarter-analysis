@@ -31,6 +31,7 @@ We have found that while there are only a total of 604 Kickstarter campaigns for
 
 ![US_Parent Category Outcomes.PNG](resources/US_Parent Category Outcomes.PNG)
 
+
 In comparison against the US data, visually it appears the US had a similar successful campaign for the master Parent Category of "Theater" (see above chart).
 
 Another factor that could impact the success rate of the project was how the kickstarters were conducted from country to country. This was controlled by analyzing the date that the kickstarters were launched.
