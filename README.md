@@ -25,11 +25,11 @@ Ultimately, Louise wants to know how different campaigns fared in relation to th
 ***Overview of Analyses***
 Looking at the data Louise obtained, there were many opportunities to observe the above factors and their impact on the success (or not) of the pertinent Kickstarter. There are logically two characteristics of the Kickstarter Programs that had to be addressed so the data could be trusted. One thing to focus on is the fact this data was obtained all over the world. After an initial look at the data, the overall ratios of successful campaigns were basically the same, no matter the country. By example, here are two graphs showing the US and Great Britain’s data for the success rates on the Parent Categories of Kickstarters.
 
-![GB_Parent Category Outcomes.PNG](resources/GB_Parent Category Outcomes.PNG)
+![GB_Parent_Category_Outcomes.PNG](resources/GB_Parent_Category_Outcomes.PNG)
 
 We have found that while there are only a total of 604 Kickstarter campaigns for plays in Great Britain, the "theater" category was the most successful (see above chart).
 
-![US_Parent Category Outcomes.PNG](resources/US_Parent Category Outcomes.PNG)
+![US_Parent_Category_Outcomes.PNG](resources/US_Parent_Category_Outcomes.PNG)
 
 
 In comparison against the US data, visually it appears the US had a similar successful campaign for the master Parent Category of "Theater" (see above chart).
