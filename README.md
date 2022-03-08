@@ -1,7 +1,7 @@
 # Analysis of Kickstarter Campaigns
 ![Cover_Page.PNG](resources/Cover_Page.PNG)
 
-## Overview of Project: Kickstarter Analysis for Louise's play *"FEVER!!"*
+## Overview of Project: Kickstarter Analysis for Louise's Play *"FEVER!!"*
 [https://docs.google.com/presentation/d/e/2PACX-1vRUrb1EvORgiedw3s0WnSgOEZvOx2VrT7ftX-hra8_gf0nCqZStqGvTSbhJso24RiskEaeuJw6Y2_OG/pub?start=true&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRUrb1EvORgiedw3s0WnSgOEZvOx2VrT7ftX-hra8_gf0nCqZStqGvTSbhJso24RiskEaeuJw6Y2_OG/pub?start=true&loop=false&delayms=3000)
 
 ### Purpose and Background
